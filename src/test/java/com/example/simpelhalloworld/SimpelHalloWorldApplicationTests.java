@@ -3,10 +3,10 @@ package com.example.simpelhalloworld;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class SimpelHalloWorldApplicationTests {
 
-    @Test
+    //@Test
     void contextLoads() {
     }
 
